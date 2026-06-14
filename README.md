@@ -50,7 +50,7 @@ Open `retail_dashboard.html` in your browser after running the notebook.
 ## How to Run
 
 ```bash
-git clone https://github.com/yourusername/retail-dashboard.git
+git clone https://github.com/JahnaviGangadi/retail-dashboard.git
 cd retail-dashboard
 pip install -r requirements.txt
 jupyter notebook notebooks/retail_dashboard.ipynb
@@ -73,4 +73,4 @@ retail-dashboard/
 
 ## Author
 
-**Your Name** · [LinkedIn](https://linkedin.com/in/yourprofile) · [Kaggle](https://kaggle.com/yourusername)
+**Jahnavi Gangadi** · [LinkedIn](https://linkedin.com/in/jahnavi-gangadi-aa8a06262) · [Kaggle](https://kaggle.com/jahnavigangadi)
